@@ -1,4 +1,4 @@
-/*Imprimir los numeros del 99 al 70*/
+
 #include <iostream>
 
 using namespace std;
